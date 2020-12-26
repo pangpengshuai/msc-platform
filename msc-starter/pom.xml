@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.jb.mpc</groupId>
+    <artifactId>msc-platform</artifactId>
+    <version>2.0.1</version>
+  </parent>
+  <artifactId>msc-starter</artifactId>
+  <packaging>pom</packaging>
+  <modules>
+    <module>mpc-dynamic-starter</module>
+    <module>mpc-security-starter</module>
+    <module>mpc-db-starter</module>
+    <module>mpc-redis-starter</module>
+    <module>mpc-common-starter</module>
+    <module>mpc-jta-starter</module>
+    <module>mpc-files-starter</module>
+    <module>mpc-log-starter</module>
+    <module>mpc-rps-starter</module>
+    <module>mpc-setting-starter</module>
+    <module>mpc-auth-client-starter</module>
+  </modules>
+</project>
