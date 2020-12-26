@@ -6,11 +6,7 @@
 	<version>2.0.1</version>
 	<packaging>pom</packaging>
 	<modules>
-		<module>mpc-starter</module>
-		<module>mpc-model</module>
-		<module>mpc-server</module>
-		<module>mpc-job</module>
-		<module>mpc-service</module>
+		<module>msc-starter</module>
 	</modules>
 	<properties>
 		<java.version>1.8</java.version>
