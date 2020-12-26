@@ -9,16 +9,6 @@
   <artifactId>msc-starter</artifactId>
   <packaging>pom</packaging>
   <modules>
-    <module>mpc-dynamic-starter</module>
-    <module>mpc-security-starter</module>
-    <module>mpc-db-starter</module>
-    <module>mpc-redis-starter</module>
-    <module>mpc-common-starter</module>
-    <module>mpc-jta-starter</module>
-    <module>mpc-files-starter</module>
-    <module>mpc-log-starter</module>
-    <module>mpc-rps-starter</module>
-    <module>mpc-setting-starter</module>
-    <module>mpc-auth-client-starter</module>
+    <module>msc-security-starter</module>
   </modules>
 </project>
